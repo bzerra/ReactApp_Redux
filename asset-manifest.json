@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/ReactApp_Redux/static/js/main.3d9b6353.chunk.js",
-    "main.js.map": "/ReactApp_Redux/static/js/main.3d9b6353.chunk.js.map",
-    "runtime-main.js": "/ReactApp_Redux/static/js/runtime-main.e21ccceb.js",
-    "runtime-main.js.map": "/ReactApp_Redux/static/js/runtime-main.e21ccceb.js.map",
-    "static/js/2.e5649836.chunk.js": "/ReactApp_Redux/static/js/2.e5649836.chunk.js",
-    "static/js/2.e5649836.chunk.js.map": "/ReactApp_Redux/static/js/2.e5649836.chunk.js.map",
-    "index.html": "/ReactApp_Redux/index.html",
-    "precache-manifest.cd28baacde44e0fbd2327fe03578ea61.js": "/ReactApp_Redux/precache-manifest.cd28baacde44e0fbd2327fe03578ea61.js",
-    "service-worker.js": "/ReactApp_Redux/service-worker.js",
-    "static/js/2.e5649836.chunk.js.LICENSE.txt": "/ReactApp_Redux/static/js/2.e5649836.chunk.js.LICENSE.txt",
-    "static/media/Logo.png": "/ReactApp_Redux/static/media/Logo.ce2e42e9.png"
+    "main.js": "/static/js/main.3d9b6353.chunk.js",
+    "main.js.map": "/static/js/main.3d9b6353.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7d25204c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7d25204c.js.map",
+    "static/js/2.c4b98221.chunk.js": "/static/js/2.c4b98221.chunk.js",
+    "static/js/2.c4b98221.chunk.js.map": "/static/js/2.c4b98221.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.183a27ed13ab542e3188a326e823cae0.js": "/precache-manifest.183a27ed13ab542e3188a326e823cae0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.c4b98221.chunk.js.LICENSE.txt": "/static/js/2.c4b98221.chunk.js.LICENSE.txt",
+    "static/media/Logo.png": "/static/media/Logo.ce2e42e9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e21ccceb.js",
-    "static/js/2.e5649836.chunk.js",
+    "static/js/runtime-main.7d25204c.js",
+    "static/js/2.c4b98221.chunk.js",
     "static/js/main.3d9b6353.chunk.js"
   ]
 }
